@@ -1,2 +1,2 @@
-# critecus
-Critecus chess engine
+# cricetus
+Cricetus chess engine
