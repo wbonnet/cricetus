@@ -1,0 +1,2 @@
+# critecus
+Critecus chess engine
